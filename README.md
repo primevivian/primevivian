@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Vivian
 
-<!--
-**primevivian/primevivian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student focused on hardware: digital design, embedded systems, robotics and analog electronics.
 
-Here are some ideas to get you started:
+**Currently learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- FPGA development and digital design
+- Embedded systems
+- Robotics
+- Analog electronics
+- Signal processing
+
+**Other Interests**
+
+Music and music hardware, photography, fashion, stargazing, camping, rock climbing and spending time with the people I love.
+
+### GitHub activity
+
+<p>
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=primevivian&rank_icon=github&custom_title=Vivian%27s%20Stats&show_icons=true&theme=swift" alt="Vivian's GitHub stats" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=primevivian&langs_count=3&theme=swift" alt="Most used languages" />
+</p>
